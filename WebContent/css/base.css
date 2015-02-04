@@ -1,0 +1,50 @@
+    html, body{
+      height: 100%;
+    }
+
+    body {
+      background-color: #FFF;
+      padding-top: 70px;
+    }
+ 
+    #wrap {
+	min-height: 100%;
+	height: auto;
+	margin: 0 auto -60px;
+	padding: 0 0 60px;
+	}
+
+    .container .credit{
+	margin: 20px 0;
+	text-align: center;
+	}
+     .textarea{
+	resize:none;
+	overflow-y: auto;
+	text-align: left;
+	}
+
+    #content {
+      min-height: 100%;
+      height: auto;
+      background-color: #FFF;
+      border-radius: 5px;
+    }
+    #content .main {
+      padding: 20px;
+    }
+    #content .sidebar {
+      padding: 10px;
+    }
+    #content p {
+      line-height: 30px;
+    }
+    
+    #footer{
+	height: 60px;
+	background-color: #FFF;
+    }
+   
+
+
+
